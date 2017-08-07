@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D://JavaProHW3/JavaProHW3.iml" filepath="D://JavaProHW3/JavaProHW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSONParser/JSONParser.iml" filepath="$PROJECT_DIR$/JSONParser/JSONParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProHW3.iml" filepath="$PROJECT_DIR$/JavaProHW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parser/Parser.iml" filepath="$PROJECT_DIR$/Parser/Parser.iml" />
     </modules>
   </component>
 </project>
