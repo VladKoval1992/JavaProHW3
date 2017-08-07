@@ -23,38 +23,37 @@ class MyClass {
         this.text = text;
     }
 
-    public int getaInt() {
+    public int getInteger() {
         return integer;
     }
 
-    public void setaInt(int aInt) {
-        this.integer = aInt;
+    public void setInteger(int integer) {
+        this.integer = integer;
     }
 
-    public double getaDouble() {
+    public double getFractional() {
         return fractional;
     }
 
-    public void setaDouble(double aDouble) {
-        this.fractional = aDouble;
+    public void setFractional(double fractional) {
+        this.fractional = fractional;
     }
 
-    public char getaChar() {
+    public char getSymbol() {
         return symbol;
     }
 
-    public void setaChar(char aChar) {
-        this.symbol = aChar;
+    public void setSymbol(char symbol) {
+        this.symbol = symbol;
     }
 
-    public String getaString() {
+    public String getText() {
         return text;
     }
 
-    public void setaString(String aString) {
-        this.text = aString;
+    public void setText(String text) {
+        this.text = text;
     }
-
 
     @Override
     public String toString() {String newLine = "\n";
