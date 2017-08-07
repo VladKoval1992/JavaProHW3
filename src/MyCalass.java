@@ -55,6 +55,7 @@ class MyClass {
         this.text = text;
     }
 
+
     @Override
     public String toString() {String newLine = "\n";
         return "Name: " + this.getClass().getName() + newLine +"\tinteger = " + integer + newLine +"\tfractional = " + fractional + newLine +
